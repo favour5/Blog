@@ -1,10 +1,10 @@
 ---
 id: hello-world
-title: Hello
+title: test
 author: Endilie Yacop Sucipto
 author_title: Maintainer of Docusaurus
-author_url: https://github.com/endiliey
-author_image_url: https://avatars1.githubusercontent.com/u/17883920?s=460&v=4
+author_url: https://github.com/favour5
+author_image_url: https://ibb.co/gvxkz3w
 tags: [hello, docusaurus]
 ---
 
