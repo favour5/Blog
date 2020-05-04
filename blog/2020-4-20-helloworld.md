@@ -1,6 +1,6 @@
 ---
 id: Welcome
-title: HelloWorld!
+title: HelloWorld
 author: favours
 author_title: Front End Engineer|前端开发
 author_url: https://github.com/favour5
