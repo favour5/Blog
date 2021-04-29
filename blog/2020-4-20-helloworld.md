@@ -4,7 +4,7 @@ title: HelloWorld
 author: favours
 author_title: Front End Engineer|前端开发
 author_url: https://github.com/favour5
-author_image_url: "/img/favours.png"
+author_image_url: "/img/favours.jpeg"
 tags: [HelloWorld]
 ---
 
