@@ -16,6 +16,12 @@ module.exports = {
       links: [
         {to: '/', label: 'Blog', position: 'right'},
         {
+          href: 'https://gitee.com/favour5',
+          label: 'Gitee',
+          position: 'right',
+        },
+        {to: '/', label: 'Blog', position: 'right'},
+        {
           href: 'https://github.com/favour5',
           label: 'GitHub',
           position: 'right',
